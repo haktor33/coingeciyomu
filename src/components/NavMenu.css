@@ -1,0 +1,35 @@
+﻿a.nav-link {
+    font-size: 20px;
+    margin-right: 40px;
+}
+
+a.navbar-brand {
+    white-space: normal;
+    text-align: center;
+    word-break: break-all;
+}
+
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+.box-shadow {
+    box-shadow: 0 .25rem .75rem rgba(255, 255, 255, 0.05);
+}
+
+.site-baslik {
+    color: rgb(199, 0, 130);
+    font-size: 50px;
+    font-weight: 100;
+}
+
+.site-alt-baslik {
+    color: white;
+    font-size: 20px;
+}

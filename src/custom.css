@@ -1,0 +1,66 @@
+
+.page {
+    background-color: rgb(22, 19, 44);
+    color: white;
+}
+
+a {
+    color: white;
+}
+
+code {
+    color: #E01A76;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+}
+
+.text-light {
+    color: white !important;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.page-title {
+    color: white;
+    font-size: xx-large;
+}
+
+.page-sub-title {
+    color: white;
+    font-size: large;
+}
+
+.flex-center {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 200px;
+    resize: vertical;
+    overflow: auto;
+    text-align: center;
+}
+
+.topluluk-card-title {
+    font-size: large;
+}
+
+.topluluk-card-description {
+    background-color: white;
+    color: rgb(22, 19, 44);
+    padding: 20px;
+}
+
+.topluluk-icon {
+    width: 72px;
+}
+
+.ogren-card {
+    background-color: gray;
+    border: 5px solid darkgrey;
+}
